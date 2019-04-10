@@ -6,12 +6,12 @@
   "publisher": "akarlsten",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aaronthomas/vscode-snazzy-operator/issues"
+    "url": "https://github.com/akarlsten/adam-snazzy-vscode/issues"
   },
-  "homepage": "https://github.com/aaronthomas/vscode-snazzy-operator",
+  "homepage": "https://github.com/akarlsten/adam-snazzy-vscode",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aaronthomas/vscode-snazzy-operator"
+    "url": "https://github.com/akarlsten/adam-snazzy-vscode"
   },
   "engines": {
     "vscode": "^1.12.0"
@@ -23,7 +23,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Snazzy Operator",
+        "label": "Snazzy Operator - akarlsten variant",
         "uiTheme": "vs-dark",
         "path": "./themes/snazzy-operator-color-theme.json"
       }
