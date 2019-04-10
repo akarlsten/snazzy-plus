@@ -15,8 +15,11 @@ ext install vscode-snazzy-operator
 Alternatively it can be found using the Extensions search feature (⇧⌘X).
 
 ## Screenshot
+
 ![snazzy-operator](https://raw.githubusercontent.com/aaronthomas/vscode-snazzy-operator/master/preview.png)
 
 ## Credits
-* [vscode-snazzy](https://github.com/alexanderbast/vscode-snazzy)
-* [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy)
+
+- [vscode-snazzy-operator](https://github.com/aaronthomas/vscode-snazzy-operator)
+- [vscode-snazzy](https://github.com/alexanderbast/vscode-snazzy)
+- [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy)
