@@ -1,8 +1,8 @@
 {
-  "name": "vscode-snazzy-operator",
-  "displayName": "Snazzy Operator",
-  "description": "Based on hyper-snazzy and optimised for Operator Mono",
-  "version": "1.1.3",
+  "name": "vscode-dracsnazzy",
+  "displayName": "DracSnazzy",
+  "description": "Based on Snazzy Operator and Dracula",
+  "version": "1.0",
   "publisher": "akarlsten",
   "license": "MIT",
   "bugs": {
@@ -23,17 +23,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "Snazzy Operator - akarlsten variant",
+        "label": "Drac-Snazzy",
         "uiTheme": "vs-dark",
-        "path": "./themes/snazzy-operator-color-theme.json"
+        "path": "./themes/dracsnazzy.json"
       }
     ]
   },
   "keywords": [
     "theme",
-    "snazzy",
-    "operator",
-    "operator mono",
-    "snazzy theme"
+    "dracsnazzy",
+    "dracula",
+    "snazzy operator",
+    "dracsnazzy theme"
   ]
 }
