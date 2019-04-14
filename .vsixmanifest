@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="vscode-dracsnazzy" Version="1.0" Publisher="akarlsten"/>
-    <DisplayName>DracSnazzy - Adam Karlsten</DisplayName>
-    <Description xml:space="preserve">Based on Aaron Thomas version of the VSCode version of hyper-snazzy and the Dracula color theme</Description>
+    <Identity Language="en-US" Id="vscode-snazzy-operator-plus" Version="1.0" Publisher="akarlsten"/>
+    <DisplayName>Snazzy Operator Plus</DisplayName>
+    <Description xml:space="preserve">Based on Aaron Thomas version of the VSCode version of hyper-snazzy</Description>
     <Tags>theme,snazzy,operator,operator mono,snazzy theme,color-theme</Tags>
     <Categories>Themes</Categories>
     <GalleryFlags>Public</GalleryFlags>

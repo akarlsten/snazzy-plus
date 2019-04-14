@@ -13,7 +13,7 @@
       "#5af78e",
       "#ffbc58",
       "#ff6ac1",
-      "#6C6E75",
+      "#57c7ff",
       "#ff5c57",
       "#ffbc58"
     ],
@@ -22,7 +22,7 @@
       "#ff5c57",
       "#5af78e",
       "#ffbc58",
-      "#6C6E75",
+      "#57c7ff",
       "#ff6ac1",
       "#9aedfe",
       "#eff0eb",
@@ -50,7 +50,7 @@
   "colors": {
     "terminal.background": "#282A36",
     "terminal.foreground": "#eff0eb",
-    "terminal.ansiBrightBlack": "#57c7ff",
+    "terminal.ansiBrightBlack": "#282a36",
     "terminal.ansiBrightRed": "#FF6E6E",
     "terminal.ansiBrightGreen": "#69FF94",
     "terminal.ansiBrightYellow": "#FFFFA5",
@@ -62,7 +62,7 @@
     "terminal.ansiRed": "#ff5c57",
     "terminal.ansiGreen": "#5af78e",
     "terminal.ansiYellow": "#ffbc58",
-    "terminal.ansiBlue": "#6C6E75",
+    "terminal.ansiBlue": "#57c7ff",
     "terminal.ansiMagenta": "#ff6ac1",
     "terminal.ansiCyan": "#9aedfe",
     "terminal.ansiWhite": "#eff0eb",
@@ -138,12 +138,12 @@
     "tab.activeBorder": "#ff6ac180",
     "tab.unfocusedActiveBorder": null,
     "tab.inactiveBackground": "#232631",
-    "tab.inactiveForeground": "#57c7ff",
+    "tab.inactiveForeground": "#6C6E75",
     "tab.unfocusedActiveForeground": null,
     "tab.unfocusedInactiveForeground": null,
     "editor.foreground": "#eff0eb",
     "editor.background": "#282A36",
-    "editorLineNumber.foreground": "#57c7ff",
+    "editorLineNumber.foreground": "#6C6E75",
     "editorCursor.foreground": null,
     "editor.selectionBackground": "#54555e",
     "editor.selectionHighlightBackground": "#616263",
@@ -233,7 +233,7 @@
     "editorOverviewRuler.currentContentForeground": "#5af78e",
     "editorOverviewRuler.incomingContentForeground": "#6C6E75",
     "panel.background": "#282A36",
-    "panel.border": "#6C6E75",
+    "panel.border": "#5af78e",
     "panelTitle.activeBorder": "#ff6ac1",
     "panelTitle.activeForeground": "#eff0eb",
     "panelTitle.inactiveForeground": "#57c7ff",
@@ -251,7 +251,7 @@
     "titleBar.activeBackground": "#232631",
     "titleBar.activeForeground": "#eff0eb",
     "titleBar.inactiveBackground": "#404353",
-    "titleBar.inactiveForeground": "#57c7ff",
+    "titleBar.inactiveForeground": "#6C6E75",
     "notification.background": "#282A36",
     "notification.foreground": "#eff0eb",
     "notification.buttonBackground": "#54555e",
@@ -288,7 +288,7 @@
     "settings.numberInputBackground": "#232631",
     "settings.numberInputForeground": "#eff0eb",
     "settings.numberInputBorder": "#404353",
-    "breadcrumb.foreground": "#57c7ff",
+    "breadcrumb.foreground": "#6C6E75",
     "breadcrumb.background": "#232631",
     "breadcrumb.focusForeground": "#eff0eb",
     "breadcrumb.activeSelectionForeground": "#eff0eb",
@@ -314,7 +314,7 @@
     {
       "scope": ["header"],
       "settings": {
-        "foreground": "#6C6E75"
+        "foreground": "#57c7ff"
       }
     },
     {
@@ -393,7 +393,7 @@
       "scope": ["markup.heading"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#6C6E75"
+        "foreground": "#57c7ff"
       }
     },
     {
@@ -471,7 +471,7 @@
       "name": "Prose constants",
       "scope": ["punctuation.definition.constant.restructuredtext"],
       "settings": {
-        "foreground": "#6C6E75"
+        "foreground": "#57c7ff"
       }
     },
     {
@@ -481,7 +481,7 @@
         "markup.heading.markdown punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "#6C6E75"
+        "foreground": "#57c7ff"
       }
     },
     {
@@ -523,7 +523,7 @@
         "variable.parameter.function.language.special"
       ],
       "settings": {
-        "foreground": "#6C6E75",
+        "foreground": "#57c7ff",
         "fontStyle": "italic"
       }
     },
@@ -580,7 +580,7 @@
       "name": "Constants",
       "scope": ["constant", "variable.other.constant"],
       "settings": {
-        "foreground": "#6C6E75"
+        "foreground": "#57c7ff"
       }
     },
     {
@@ -696,7 +696,7 @@
       "scope": ["support.function.magic", "support.variable", "variable.other.predefined"],
       "settings": {
         "fontStyle": "regular",
-        "foreground": "#6C6E75"
+        "foreground": "#57c7ff"
       }
     },
     {
@@ -1046,7 +1046,7 @@
       "name": "Shell variables prefixed with \"$\" (edge case)",
       "scope": ["source.shell variable.other"],
       "settings": {
-        "foreground": "#6C6E75"
+        "foreground": "#57c7ff"
       }
     },
     {
@@ -1054,7 +1054,7 @@
       "scope": ["support.constant"],
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#6C6E75"
+        "foreground": "#57c7ff"
       }
     },
     {
