@@ -75,14 +75,14 @@
       "name": "Null",
       "scope": "constant.language.null",
       "settings": {
-        "foreground": "#5af78e"
+        "foreground": "#ff5c57"
       }
     },
     {
       "name": "Undefined",
       "scope": "constant.language.undefined",
       "settings": {
-        "foreground": "#5af78e"
+        "foreground": "#ff6ac1"
       }
     },
     {
@@ -538,11 +538,11 @@
     "terminal.ansiYellow": "#ffbc58",
     "activityBar.background": "#282a36",
     "sideBar.background": "#2C2F3D",
-    "editorGroup.dropBackground": "#232631",
-    "editorGroupHeader.tabsBackground": "#232631",
-    "titleBar.activeBackground": "#282a36",
+    "editorGroup.dropBackground": "#282a369b",
+    "editorGroupHeader.tabsBackground": "#282a36",
+    "titleBar.activeBackground": "#2C2F3D",
     "tab.border": "#404353",
-    "tab.inactiveBackground": "#232631",
+    "tab.inactiveBackground": "#282A36",
     "tab.activeBackground": "#2C2F3D",
     "sideBar.border": "#404353",
     "terminal.ansiBrightBlack": "#6C6E75",
@@ -553,14 +553,14 @@
 
     "contrastBorder": null,
     "contrastActiveBorder": null,
-    "focusBorder": "#eff0eb",
+    "focusBorder": "#6C6E75",
     // "widget.shadow": null,
     "selection.background": "#6C6E75",
     "errorForeground": "#ff5c57",
     "button.background": "#54555e",
     "button.foreground": "#eff0eb",
     "button.hoverBackground": null,
-    "dropdown.background": "#2C2F3D",
+    "dropdown.background": "#282A36",
     "dropdown.border": "#404353",
     "dropdown.foreground": "#eff0eb",
     "input.background": "#282A36",
@@ -662,7 +662,7 @@
     "editorSuggestWidget.highlightForeground": null,
     "editorSuggestWidget.selectedBackground": "#54555e",
     "editorHoverWidget.background": "#282A36",
-    "editorHoverWidget.border": "#57c7ff",
+    "editorHoverWidget.border": null,
     "debugExceptionWidget.background": null,
     "debugExceptionWidget.border": null,
     "editorMarkerNavigation.background": "#232631",
@@ -733,6 +733,6 @@
     "listFilterWidget.background": "#2C2F3D",
     "listFilterWidget.outline": "#616263",
     "listFilterWidget.noMatchesOutline": "#ff5c57",
-    "editorWidget.border": "#ff6ac1"
+    "editorWidget.border": null
   }
 }
