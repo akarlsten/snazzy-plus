@@ -1,7 +1,7 @@
 {
   "name": "vscode-snazzy-akarlsten",
-  "displayName": "SnazzyOperator-Plus",
-  "description": "Based on Snazzy Operator and extended",
+  "displayName": "Snazzy Plus",
+  "description": "Based on Snazzy Operator with theming for more parts of the UI",
   "version": "1.0.0",
   "publisher": "akarlsten",
   "license": "MIT",
