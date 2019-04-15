@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "publisher": "akarlsten",
   "license": "MIT",
+  "galleryBanner.color": "#ffbc58",
   "bugs": {
     "url": "https://github.com/akarlsten/adam-snazzy-vscode/issues"
   },
