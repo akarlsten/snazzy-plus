@@ -2,7 +2,7 @@
   "name": "vscode-snazzy-akarlsten",
   "displayName": "Snazzy Plus",
   "description": "Based on Snazzy Operator with theming for more parts of the UI",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "akarlsten",
   "license": "MIT",
   "galleryBanner.color": "#ffbc58",
