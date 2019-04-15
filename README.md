@@ -6,7 +6,7 @@ A VS Code theme based on [hyper-snazzy](https://github.com/sindresorhus/hyper-sn
 
 ## Screenshot
 
-![snazzy-operator](https://user-images.githubusercontent.com/13545738/55916762-95327700-5bed-11e9-880f-4f5260f39657.png)
+![snazzy-operator](https://github.com/akarlsten/adam-snazzy-vscode/raw/master/preview.png)
 
 ## Credits
 
