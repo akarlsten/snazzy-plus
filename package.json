@@ -23,7 +23,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Snazzy Operator Plus",
+        "label": "Snazzy Plus",
         "uiTheme": "vs-dark",
         "path": "./themes/snazzy-operator-color-theme.json"
       }
