@@ -5,7 +5,10 @@
   "version": "1.1.0",
   "publisher": "akarlsten",
   "license": "MIT",
-  "galleryBanner.color": "#ffbc58",
+  "galleryBanner": {
+    "color": "#ffbc58",
+    "theme": "dark"
+  },
   "bugs": {
     "url": "https://github.com/akarlsten/adam-snazzy-vscode/issues"
   },
@@ -27,12 +30,18 @@
         "label": "Snazzy Plus",
         "uiTheme": "vs-dark",
         "path": "./themes/snazzy-operator-color-theme.json"
+      },
+      {
+        "label": "Snazzy Plus - Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/snazzy-operator-color-theme-dark.json"
       }
     ]
   },
   "keywords": [
     "theme",
     "snazzy",
+    "snazzy plus",
     "snazzy operator plus",
     "snazzy theme"
   ]
