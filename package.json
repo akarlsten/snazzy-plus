@@ -10,12 +10,12 @@
     "theme": "dark"
   },
   "bugs": {
-    "url": "https://github.com/akarlsten/adam-snazzy-vscode/issues"
+    "url": "https://github.com/akarlsten/snazzy-plus/issues"
   },
-  "homepage": "https://github.com/akarlsten/adam-snazzy-vscode",
+  "homepage": "https://github.com/akarlsten/snazzy-plus",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akarlsten/adam-snazzy-vscode"
+    "url": "https://github.com/akarlsten/snazzy-plus"
   },
   "engines": {
     "vscode": "^1.12.0"
