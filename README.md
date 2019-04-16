@@ -1,4 +1,4 @@
-![snazzy-plus-logo](https://github.com/akarlsten/adam-snazzy-vscode/raw/master/images/icon.png)
+# Snazzy Plus
 
 A VS Code theme based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) and [vscode-snazzy-operator](https://github.com/aaronthomas/vscode-snazzy-operator). Changes compared to Aaron Thomas version are a darker yellow color (taken from Dracula, i think) as the pale yellow in the original didn't appeal. Also removed the italicized keywords for stuff like "this" as I don't use Operator Mono.
 
