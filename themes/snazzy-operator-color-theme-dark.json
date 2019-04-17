@@ -593,7 +593,7 @@
     "list.errorForeground": "#ff5c57",
     "list.hoverForeground": null,
     "list.focusForeground": null,
-    "activityBar.inactiveForeground": "#57c7ff",
+    "activityBar.inactiveForeground": "#2C2F3F",
     "activityBar.dropBackground": null,
     "activityBar.foreground": "#eff0eb",
     "activityBar.border": null,

@@ -18,6 +18,8 @@ Feel free to open a Github issue for any comments/suggestions.
 
 ## Changes
 
+1.2.3 - Adjusted colors of Activity bar
+
 1.2.2 - readme adjustments
 
 1.2.0 - Added a darker version for those who prefer higher contrast!
