@@ -2,7 +2,7 @@
   "name": "vscode-snazzy-akarlsten",
   "displayName": "Snazzy Plus",
   "description": "Based on Snazzy Operator with theming for more parts of the UI",
-  "version": "1.2.3",
+  "version": "1.3.0",
   "publisher": "akarlsten",
   "license": "MIT",
   "galleryBanner": {
@@ -35,6 +35,16 @@
         "label": "Snazzy Plus - Darker",
         "uiTheme": "vs-dark",
         "path": "./themes/snazzy-operator-color-theme-dark.json"
+      },
+      {
+        "label": "Snazzy Plus w/ Italics",
+        "uiTheme": "vs-dark",
+        "path": "./themes/snazzy-operator-color-theme-italics.json"
+      },
+      {
+        "label": "Snazzy Plus - Darker w/ Italics",
+        "uiTheme": "vs-dark",
+        "path": "./themes/snazzy-operator-color-theme-dark-italics.json"
       }
     ]
   },

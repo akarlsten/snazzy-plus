@@ -2,9 +2,14 @@
   <img src="https://github.com/akarlsten/snazzy-plus/raw/master/images/icon.png" width="150" height="150">
 </p>
 
-A VS Code theme based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) and [vscode-snazzy-operator](https://github.com/aaronthomas/vscode-snazzy-operator). Changes compared to Aaron Thomas version are a darker yellow color (taken from Dracula, i think) as the pale yellow in the original didn't appeal. Also removed the italicized keywords for stuff like "this" as I don't use Operator Mono.
+A VS Code theme based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) and [vscode-snazzy-operator](https://github.com/aaronthomas/vscode-snazzy-operator).
 
-There's also a new alternate **darker version** that I've started preferring on my brighter laptop screen.
+Changes compared to Aaron Thomas version are:
+
+- Theming for every part of the UI. If I missed anything let me know!
+- A darker yellow color (taken from Dracula, i think) as the pale yellow in the original didn't appeal to me.
+- Alternate version with **_italics_** for keywords like "this" and "class" for use with Operator/Dank Mono.
+- Alternate **darker version** that I've started preferring on my brighter laptop screen.
 
 Feel free to open a Github issue for any comments/suggestions.
 
@@ -16,7 +21,13 @@ Feel free to open a Github issue for any comments/suggestions.
 
 ![snazzy-plus-dark-preview](https://github.com/akarlsten/snazzy-plus/raw/master/preview-dark.png)
 
+## Italics
+
+![snazzy-plus-dark-italics-preview](https://github.com/akarlsten/snazzy-plus/raw/master/preview-italics.png)
+
 ## Changes
+
+1.3.0 - Added variants with italic keywords for those who use Operator/Dank Mono
 
 1.2.3 - Adjusted colors of Activity bar
 
