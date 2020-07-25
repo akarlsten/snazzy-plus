@@ -57,6 +57,8 @@ Intellisense should supply auto-completions for both of these.
 
 ## Changes
 
+1.3.1 - Update README with customization instructions
+
 1.3.0 - Added variants with italic keywords for those who use Operator/Dank Mono
 
 1.2.3 - Adjusted colors of Activity bar
